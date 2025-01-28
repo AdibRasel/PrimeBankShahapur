@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PrimeBankShahapur/static/css/main.5411400d.css",
+    "main.js": "/PrimeBankShahapur/static/js/main.8a67b342.js",
+    "static/media/ImoIcon.png": "/PrimeBankShahapur/static/media/ImoIcon.06910d8fc74ef2da0270.png",
+    "static/media/EmailIcon.png": "/PrimeBankShahapur/static/media/EmailIcon.9800434dcd844b3dca3f.png",
+    "static/media/WhatsppIcon.png": "/PrimeBankShahapur/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
+    "index.html": "/PrimeBankShahapur/index.html",
+    "main.5411400d.css.map": "/PrimeBankShahapur/static/css/main.5411400d.css.map",
+    "main.8a67b342.js.map": "/PrimeBankShahapur/static/js/main.8a67b342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5411400d.css",
+    "static/js/main.8a67b342.js"
+  ]
+}
